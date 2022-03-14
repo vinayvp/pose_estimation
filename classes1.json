@@ -1,0 +1,114 @@
+[
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 1,
+        "name": "head_top",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 2,
+        "name": "upper_neck",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 3,
+        "name": "right_shoulder",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 4,
+        "name": "right_elbow",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 5,
+        "name": "right_wrist",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 6,
+        "name": "thorax",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 7,
+        "name": "left_shoulder",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 8,
+        "name": "left_elbow",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 9,
+        "name": "left_wrist",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 10,
+        "name": "pelvis",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 11,
+        "name": "right_hip",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 12,
+        "name": "right_knee",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 13,
+        "name": "right_ankle",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 14,
+        "name": "left_hip",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 15,
+        "name": "left_knee",
+        "opened": true
+    },
+    {
+        "attribute_groups": [],
+        "color": "#32a852",
+        "id": 16,
+        "name": "left_ankle",
+        "opened": true
+    }
+]
